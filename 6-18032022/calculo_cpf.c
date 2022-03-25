@@ -33,7 +33,7 @@ criar um conjunto de numeros em tipo int e realizar a conversão usando for*/
 
     }                                 
 
-    resto = total % 11;                             //Se o resto da divisão for menor ue 2, então o primeiro digito de verificação será 0 
+    resto = total % 11;                             //Se o resto da divisão for menor que 2, então o primeiro digito de verificação será 0 
     if(resto < 2){
         iCpf[9]=0;
     }
