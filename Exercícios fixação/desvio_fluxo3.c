@@ -10,6 +10,8 @@ void main(){
     scanf("%f", &peso);
     printf("Informe a idade:\n");
     scanf("%d", &idade);
+     printf("Está bem alimentado? <1-SIM / 0-NÃO>\n");
+    scanf("%d", &bemAlimentado);
     printf("Está resfriado? <1-SIM / 0-NÃO>\n");
     scanf("%d", &resfriado);
     if (peso >= 50 && (idade >= 16 && idade <= 69)
