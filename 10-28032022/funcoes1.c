@@ -16,22 +16,22 @@ void separadorLinha(){
     printf("\n");
 }
 
-void pularLinha(int qtdVezes){
+void pularLinha(int qtdVezes){                                       //void só executa, não responde.
 for(int i=1; i<= qtdVezes; i++){
     printf("\n");
 }
 }
 
-void comparar (int v1, int v2){
+char* comparar (int v1, int v2){                                 
     if(v1>v2){
-        printf("O primeiro número é maior que o segundo.\n");
+        return"O primeiro número é maior que o segundo.\n";
     }
     else if(v1==v2){
-        printf("São números iguais.\n");
+        return"São números iguais.\n";
     }
-    
+
     else{
-        printf("O segundo número é maior que o primeiro.\n");
+        return"O segundo número é maior que o primeiro.\n";
     }
 
 }
@@ -50,6 +50,6 @@ void main(){
     printf("Digite outro número:\n");
     scanf("%d", &n2);
 pularLinha (1);
-    comparar(n1,n2);
+    printf(comparar(n1,n2));
 pularLinha (2);
 }
