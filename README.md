@@ -20,30 +20,30 @@
 # Instalando o compilador no LINUX
 >No caso foi usada a versão [**Ubuntu**](https://ubuntu.com/) porém o mesmo é compativel para outras versões.
 
-# Apresentação de algumas atividades
-## 1-07032022
-* Foram atividades iniciais.
+# Apresentação de algumas pastas disponíveis
+**1-07032022**
+>Foram atividades iniciais para a aprendizagem.
 
-## 2-09032022 - 3-14032022 - 5-17032022
-* Atividades com operações matemáticas.
+**2-09032022 - 3-14032022 - 5-17032022**
+>Algumas atividades com operações matemáticas.
 
-## 4-16032022
-* Atividades com desvio de fluxo switch.
+**4-16032022**
+>Atividades com desvio de fluxo switch.
 
-## 6-18032022
-* Início da criação do arquivo README.
+**6-18032022**
+>Início da criação do arquivo README.
 
-## 7-21032022
-* Atividades com o laço while.
+**7-21032022**
+>Atividades com o laço while.
 
-## 8-25032022
-* Atividades com ponteiro.
+**8-25032022**
+>Atividades com ponteiro.
 
-## Exercício fixação
-* Exercícios para fixar o conhecimento, com atividades de matemática, textos etc.
+**Exercício fixação**
+>Exercícios para fixar o conhecimento, com atividades de matemática, textos etc.
 
-## 10-28032022 - 11-Atividade
-* Trabalhando com a biblioteca.
+**10-28032022 - 11-Atividade**
+>Trabalhando com a biblioteca.
 
-## 12-31032022
-* Atividades com array.
+**12-31032022**
+>Atividades com array.
