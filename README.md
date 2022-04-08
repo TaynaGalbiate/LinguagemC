@@ -21,29 +21,29 @@
 >No caso foi usada a versão [**Ubuntu**](https://ubuntu.com/) porém o mesmo é compativel para outras versões.
 
 # Apresentação de algumas pastas disponíveis
-**1-07032022**
+**Pasta 1-07032022**
 >Foram atividades iniciais para a aprendizagem.
 
-**2-09032022 - 3-14032022 - 5-17032022**
+**Pastas 2-09032022 - 3-14032022 - 5-17032022**
 >Algumas atividades com operações matemáticas.
 
-**4-16032022**
+**Pasta 4-16032022**
 >Atividades com desvio de fluxo switch.
 
-**6-18032022**
+**Pasta 6-18032022**
 >Início da criação do arquivo README.
 
-**7-21032022**
+**Pasta 7-21032022**
 >Atividades com o laço while.
 
-**8-25032022**
+**Pasta 8-25032022**
 >Atividades com ponteiro.
 
-**Exercício fixação**
+**Pasta exercício fixação**
 >Exercícios para fixar o conhecimento, com atividades de matemática, textos etc.
 
-**10-28032022 - 11-Atividade**
+**Pastas 10-28032022 - 11-Atividade**
 >Trabalhando com a biblioteca.
 
-**12-31032022**
+**Pasta 12-31032022**
 >Atividades com array.
